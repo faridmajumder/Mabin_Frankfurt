@@ -1,1 +1,11 @@
 /* Empty. Add your own CSS if you like */
+ion-view{
+  background-image: url(../img/mabin02.png);
+  background-size: cover
+
+}
+
+.bg2{
+  background-image: url(../img/mabin01.png);
+  background-size: cover
+}
